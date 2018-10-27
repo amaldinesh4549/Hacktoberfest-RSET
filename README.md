@@ -34,7 +34,8 @@
 
 List all files including hidden			ls -al (ubuntu)			ls -h (Windows)
 
-Switch to a new branch					git checkout -b develop
+Switch to a new branch
+`git checkout -b branchname`
 
 
 
